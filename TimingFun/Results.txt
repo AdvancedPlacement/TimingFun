@@ -1,0 +1,18 @@
+Array Sorts: 
+Radix: 0
+Quick Sort: 0
+insertion: 0
+Selection: 16
+Merge: 15
+Vector Sorts: 
+Radix: 16
+Quicker Sort: 0
+insertion: 0
+Selection: 15
+Merge: 16
+C style array sorts: 
+Radix: 16
+Quick Sort: 0
+insertion: 0
+Selection: 0
+Merge: 0
